@@ -9,4 +9,7 @@
     font-family: 'Courier New', Courier, monospace;
     color: rgb(37, 52, 187);
     font-size: 3rem;
+    border: 2 rem;
+    border-radius: 3rem;
+
 }
